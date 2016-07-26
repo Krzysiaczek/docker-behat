@@ -1,2 +1,2 @@
 #!/bin/sh
-cd /home/behat/data && /home/behat/composer/bin/behat $*
+cd /behat/data && /behat/composer/bin/behat $*
